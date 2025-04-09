@@ -15,5 +15,6 @@ export class LF_Home {
         const click_Accnavigation = this.page.locator("//a[contains(text(),'Create Account')]")
         await click_Accnavigation.click()
         console.log("clicked account creation shortcut successfully")
+        return this
     }
 }
