@@ -1,0 +1,4 @@
+id,user_story 
+1001,"As a user, I want to log in with my email and password so that I can access my account.  "
+1002,"As a user, I want to reset my password so that I can regain access to my account if I forget it.  "
+1003,"As a user, I want to search for products by name so that I can find what I need quickly.  "
